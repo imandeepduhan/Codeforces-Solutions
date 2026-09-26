@@ -1,7 +1,9 @@
 /*
 Problem Name : 58-B Coins
 Problem Link : https://codeforces.com/contest/58/problem/B
-My Approach : I start with the given number and print it first, then i repeatedly divide the number by its smallest factor greater than 1. I continue this process until the number becomes 1.
+My Approach : I start with the given number and print it first, then 
+i repeatedly divide the number by its smallest factor greater than 1.
+I continue this process until the number becomes 1.
 */
 
 import java.util.Scanner;
