@@ -2,8 +2,13 @@
 Problem Name : Range Minimum Query
 Problem Link : https://codeforces.com/edu/course/3/lesson/18/1/practice/contest/619571/problem/A
 
-My Approach : First, I calculated the block size s using √n. Then, I created an array b to store the minimum element of each block.
-Next, I found the minimum element in every block and stored it in b.For each query, I used a while loop to find the answer.If the current block was completely inside the query range, I used the minimum value from b and skipped the whole block by moving l by s.Otherwise, I checked the current element, updated the answer, and moved l by 1.Finally, I printed the minimum element for each query.
+My Approach : First, I calculated the block size s using √n. 
+Then, I created an array b to store the minimum element of each block.
+Next, I found the minimum element in every block and stored it in b.For each query,
+I used a while loop to find the answer.If the current block was completely inside
+the query range, I used the minimum value from b and skipped the whole block by moving 
+l by s.Otherwise, I checked the current element, updated the answer, 
+and moved l by 1.Finally, I printed the minimum element for each query.
 
 */
 
