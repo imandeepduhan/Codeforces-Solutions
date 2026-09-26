@@ -2,7 +2,14 @@
 Problem Name : 4-B Before an Exam.
 Problem Link : https://codeforces.com/contest/4/problem/B
 
-My Approach : First, I create two arrays named min and max. Then, I initialize i and maxTotal to 0. Next, I take input values: the minimum time is stored in the min array and the maximum time is stored in the max array, and I also calculate the sum of max values using maxTotal. Then, I check if (sumTime > maxTotal). If this condition is true, I print NO. Otherwise, I subtract all min values from sumTime. Then, I check if (hours < 0). If it is true, I print NO. Next, if (hours == 0), I print YES and print the min array. Finally, if (hours != 0), I distribute the remaining hours among the min values without exceeding the max values and print the result.
+My Approach : First, I create two arrays named min and max. 
+Then, I initialize i and maxTotal to 0. Next, I take input values: 
+the minimum time is stored in the min array and the maximum time is stored in the max array, 
+and I also calculate the sum of max values using maxTotal. Then, I check if (sumTime > maxTotal). 
+If this condition is true, I print NO. Otherwise, I subtract all min values from sumTime. 
+Then, I check if (hours < 0). If it is true, I print NO. Next, if (hours == 0), 
+I print YES and print the min array. Finally, if (hours != 0), 
+I distribute the remaining hours among the min values without exceeding the max values and print the result.
 */
 
 import java.util.Scanner;
