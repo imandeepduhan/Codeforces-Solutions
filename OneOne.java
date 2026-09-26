@@ -1,7 +1,9 @@
 /*
 Problem Name : 2207-A 1-1
 Problem Link : https://codeforces.com/contest/2207/problem/A
-My Approach : First , I convert string into array , than I start a for loop i = 1 and  end condition is : i < n - 1 and than declare three variables f , l , m when f == l == 1 change index i into 1 and 0 . same repeat and i find MinOne and MaxOne.
+My Approach : First , I convert string into array , than I start a for loop i = 1 and 
+end condition is : i < n - 1 and than declare three variables f , l , m when f == l == 1 change index i into 1 and 0 . 
+same repeat and i find MinOne and MaxOne.
 
 */
 
