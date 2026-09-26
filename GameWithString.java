@@ -1,7 +1,9 @@
 /* 
 Problem Name : 1104-B Game With String
 Problem Link : https://codeforces.com/contest/1104/problem/B
-My Approach : Repeatedly remove adjacent equal characters using StringBuilder and count moves. If total removals are odd print "Yes", otherwise print "No".
+
+My Approach : Repeatedly remove adjacent equal characters using StringBuilder and count moves. 
+If total removals are odd print "Yes", otherwise print "No".
 */
 
 import java.util.Scanner;
