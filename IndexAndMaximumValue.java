@@ -2,7 +2,10 @@
 Problem Name : 2007-B Index and Maximum Value
 Problem Link : https://codeforces.com/problemset/problem/2007/B
 
-My Approach : In this question, we need to find the maximum value. When I took the array as input from the user, I also found the maximum element at the same time. The maximum value is checked within the range of l and r. Based on that, apply the operations + and -. Print maximum value after this operations.
+My Approach : In this question, we need to find the maximum value. 
+When I took the array as input from the user, I also found the maximum element at the same time. 
+The maximum value is checked within the range of l and r. 
+Based on that, apply the operations + and -. Print maximum value after this operations.
 
 */
 import java.util.*;
