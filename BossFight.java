@@ -2,7 +2,11 @@
 Problem Name : 2252-A Boss Fight
 Problem Link : https://codeforces.com/contest/2252/problem/A
 
-My Approach : First, I create a TreeMap, and all elements are added in descending order. It stores elements in key-value pair. Then, I find the pair with the maximum value. It is stored in the variables el and value. Then, I count the values and store them in a variable. I calcualte the total sum of all pairs, skipping only the maximum el and value pair. Finally , I calculate the result and print it.
+My Approach : First, I create a TreeMap, and all elements are added in descending order.
+It stores elements in key-value pair. Then, I find the pair with the maximum value.
+It is stored in the variables el and value. Then, I count the values and store them in a variable. 
+I calcualte the total sum of all pairs, skipping only the maximum el and value pair. 
+Finally , I calculate the result and print it.
 
 */
 
