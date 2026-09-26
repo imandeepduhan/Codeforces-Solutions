@@ -1,7 +1,10 @@
 /*
 Problem Name : 2001-A Make All Equal.
 Problem Link : https://codeforces.com/contest/2001/problem/A
-My Approach : I count frequency of each number using an array. Then I find the number that appears maximum times. The answer is total elements minus the maximum frequency.
+
+My Approach : I count frequency of each number using an array. 
+Then I find the number that appears maximum times. 
+The answer is total elements minus the maximum frequency.
 */
 
 import java.util.Scanner;
