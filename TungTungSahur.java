@@ -2,7 +2,10 @@
 Problem Name : 2094-D Tung Tung Sahur
 Problem Link : https://codeforces.com/contest/2094/problem/D
 
-My Approach : Firstly, I created a counter function that counts consecutive L or R characters. Then, I return the index and the count of the consecutive L or R characters. In the main function, I started a while loop that compares the counts of L or R, and it keeps calling the counter function until the condition becomes false. Finally, I print YES or NO.
+My Approach : Firstly, I created a counter function that counts consecutive L or R characters. 
+Then, I return the index and the count of the consecutive L or R characters.
+In the main function, I started a while loop that compares the counts of L or R, 
+and it keeps calling the counter function until the condition becomes false. Finally, I print YES or NO.
 
 */
 
