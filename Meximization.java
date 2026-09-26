@@ -2,7 +2,10 @@
 Problem Name : 1497-A Meximization
 Problem Link : https://codeforces.com/contest/1497/problem/A
 
-My Approach : First I created an array of size 101. Then,a variable was created to store the largest number in the array. Then I created two lists ans or dup the ans list will store the sorted elements and dup list store duplicate elements. Then I had the ans and dup lists printed.
+My Approach : First I created an array of size 101. 
+Then,a variable was created to store the largest number in the array. 
+Then I created two lists ans or dup the ans list will store the sorted
+elements and dup list store duplicate elements. Then I had the ans and dup lists printed.
 
 */
 
