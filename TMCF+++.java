@@ -2,7 +2,10 @@
 Problem Name : 45-I TCMCF+++
 Problem Link : https://codeforces.com/contest/45/problem/I
 
-My Approach : First, I store positive numbers in the ans list and negative numbers store in NegEl list and Zeroes in the ZeroEl list. Then, I sort the NegEl list and store all NegEl list numbers in ans list when the size of NegEL List is even Otherwise, I skip the last element. Finally, I print the ans.
+My Approach : First, I store positive numbers in the ans list and negative numbers 
+store in NegEl list and Zeroes in the ZeroEl list.
+Then, I sort the NegEl list and store all NegEl list numbers in ans list when 
+the size of NegEL List is even Otherwise, I skip the last element. Finally, I print the ans.
 
 */
 
