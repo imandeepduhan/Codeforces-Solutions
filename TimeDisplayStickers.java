@@ -2,8 +2,10 @@
 Problem Name : 2206-K Time Display Stickers
 Problem Link : https://codeforces.com/contest/2206/problem/K
 
-My Approach: First, I create an array of size 10. I convert each character into an integer and use it as an index to count the digits. Then, I create four integers: st, lt, mid and ans.
-After that, I start a while loop and check the condition arr[st] != 0 && st < 2. Then, I calculate the hours and minutes and increment ans whenever a valid time can be formed.
+My Approach: First, I create an array of size 10. I convert each character into an integer
+and use it as an index to count the digits. Then, I create four integers: st, lt, mid and ans.
+After that, I start a while loop and check the condition arr[st] != 0 && st < 2.
+Then, I calculate the hours and minutes and increment ans whenever a valid time can be formed.
 
 */
 
