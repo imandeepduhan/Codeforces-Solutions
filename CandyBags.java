@@ -2,7 +2,8 @@
 Problem Name : 334-A Candy Bags.
 Problem Link : https://codeforces.com/contest/334/problem/A
 
-My Approach : I take half = n/2 because I print two numbers at a time (one from start and from end). I move start forward and end backward to print numbers in good order.
+My Approach : I take half = n/2 because I print two numbers at a time (one from start and from end). 
+I move start forward and end backward to print numbers in good order.
 */
 
 import java.util.Scanner;
